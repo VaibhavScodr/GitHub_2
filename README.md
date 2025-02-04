@@ -11,3 +11,14 @@
     5. git remote add origin main <url>
     6. git push -u origin main
 </pre> 
+30. Now if you change or add a file directaly to the github then this will be one commit ahead from the local git so for this we use and in this no push operation can be performed <br>
+31. <pre>
+       1. git pull origin main
+       2. git add file.name
+       3. git commit -m ""
+       4. git push origin main
+</pre>
+32. and another way to that is <br>
+33. <pre>
+      
+</pre>
