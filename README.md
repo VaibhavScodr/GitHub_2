@@ -20,5 +20,8 @@
 </pre>
 32. and another way to that is <br>
 33. <pre>
+      1. git fetch origin
+      2. git merge origin/main
+      3. git push origin main
       
 </pre>
