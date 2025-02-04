@@ -7,7 +7,7 @@
     1. git init
     2. git add README.md
     3. git commit -m "must do it"
-    4. git branch -M main <---this is needed to do > <br> 
+    4. git branch -M main <---this is needed to do >   
     5. git remote add origin main <url>
     6. git push -u origin main
 </pre> 
