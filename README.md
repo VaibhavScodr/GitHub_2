@@ -33,3 +33,10 @@
 39. owner can review it or than he can accept it or reject it request. <br>
 40. <h3>Dya4</h3> <br>
 41. Now see the Git rebase master so see this --> <img link="https://phoenixnap.com/kb/wp-content/uploads/2023/03/git-rebase-example.png" alt="rebase">
+42. <pre>
+    1. make a file in local make commit not push.
+    2. make a same file using github.
+    3. now pull it's changes from git.
+    4. now do <h1>git rebase origin main</h1>
+    5. now everything will be up to date. 
+</pre>
