@@ -32,4 +32,4 @@
 38. Now for making and after pushing changes to origin it will reflect on the github but to make it changes real we use <h3>Pull Request</h3>. <br>
 39. owner can review it or than he can accept it or reject it request. <br>
 40. <h3>Dya4</h3> <br>
-41. Now see the Git rebase master so see this --> <img href="https://phoenixnap.com/kb/wp-content/uploads/2023/03/git-rebase-example.png" alt="rebase">
+41. Now see the Git rebase master so see this --> <img link="https://phoenixnap.com/kb/wp-content/uploads/2023/03/git-rebase-example.png" alt="rebase">
