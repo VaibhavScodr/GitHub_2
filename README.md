@@ -40,3 +40,4 @@
     4. now do <h1>git rebase origin main</h1>
     5. now everything will be up to date. 
 </pre>
+43. Interview question is merge/rebase ans is the rebase has no new commites and merge has new commites and changes and the multiple people working on the rebase so i will be currepted so for team it is not suitable but merge is absolutely used for the merge. 
